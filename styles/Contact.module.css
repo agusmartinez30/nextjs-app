@@ -1,0 +1,23 @@
+.header{
+    background-color: #0070f3;
+    min-height: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header h3{
+    font-size: 48px;
+    color: #fff;
+}
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 2rem;
+}
+.image{
+    width: 100%;
+    margin: 30px;
+}
